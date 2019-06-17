@@ -1,0 +1,4 @@
+﻿  Array_Solution.cpp
+d:\code_project\c++_test\github_project\leetcode75_sortedcolor\consoleapplication1\consoleapplication1\array_solution.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode75_sortedcolor\consoleapplication1\consoleapplication1\array_solution.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> D:\Code_Project\C++_Test\GitHub_Project\Leetcode75_SortedColor\ConsoleApplication1\Debug\Array_Solution.exe
